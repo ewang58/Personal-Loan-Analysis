@@ -69,7 +69,7 @@
 - "Income" and "number of family member" are positively correlated with personal loan.
 - "Education level" and investments has the least influence or impact on whether an individual decides to accept the loan
 - Further investigation is recommended to determine the correlation between "income" and other factors such as "mortgage" or "CCAvg" etc.
-- You can access the Jupyter [here](https://github.com/ewang58/Personal-Loan-Analysis/blob/master/Code/Finance_data_analysis.ipynb).
+- You can access the Jupyter notebook [here](https://github.com/ewang58/Personal-Loan-Analysis/blob/master/Code/Finance_data_analysis.ipynb).
 
 
 
