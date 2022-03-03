@@ -71,4 +71,4 @@ What is the most influential factors to receiving a personal loan from the bank?
 
 
 
-(**Back to Main**)[https://ewang58.github.io/Portfolio/]
+[Back to Main](https://ewang58.github.io/Portfolio/)
