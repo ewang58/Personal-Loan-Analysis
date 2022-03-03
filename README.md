@@ -1,7 +1,3 @@
-# Python: Personal-Loan-Analysis
-
-
-
 ## Project Description
 
 - This project is created with the intention to determine which factor(s) influences clients to apply and accept a personal loan from the bank. 
