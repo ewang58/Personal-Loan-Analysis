@@ -8,13 +8,13 @@
 - We found that an individual's annual income and the number of family members are the most important factors in determining whether an individual accepts a personal loan from the bank.
 - The dataset can be obtained from Kaggle.
 - The libraries involved in the project include: Pandas, Matplotlib, Seaborn, and Plotly
-- [Link to this Project](https://github.com/ewang58/Personal-Loan-Analysis/blob/master/Code/Finance_data_analysis.ipynb)
+- [Link to this Project on Github](https://github.com/ewang58/Personal-Loan-Analysis/blob/master/Code/Finance_data_analysis.ipynb)
 
 
 
 ## Objectives
 
-**Main Question**: What is the most influential factors to receiving a personal loan from the bank?
+What is the most influential factors to receiving a personal loan from the bank?
 
 
 
