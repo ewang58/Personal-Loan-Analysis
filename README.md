@@ -1,4 +1,4 @@
-## Project Description
+## Project Overview
 
 - This project is created with the intention to determine which factor(s) influences clients to apply and accept a personal loan from the bank. 
 - We found that an individual's annual income and the number of family members are the most important factors in determining whether an individual accepts a personal loan from the bank.
