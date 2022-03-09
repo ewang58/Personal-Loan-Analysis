@@ -58,8 +58,6 @@ What is the most influential factors to receiving a personal loan from the bank?
 
 
 
-
-
 ## Interpreting the Results
 
 - "Income" and "number of family member" are positively correlated with personal loan.
